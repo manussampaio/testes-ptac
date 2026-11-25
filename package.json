@@ -1,0 +1,17 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "main": "index.js",
+ "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "test": "vitest run",
+  "test:watch": "vitest"
+},
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vitest": "^5.1.2"
+  }
+}
